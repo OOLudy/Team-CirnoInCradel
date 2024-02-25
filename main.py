@@ -1,4 +1,8 @@
-# 测试
+'''
+安装以下外部库:
+numpy: 矩阵计算 pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple 清华镜像
+matplotlib: 
+'''
 
 # 按 Shift+F10 执行或将其替换为您的代码。
 # 按 双击 Shift 在所有地方搜索类、文件、工具窗口、操作和设置。
