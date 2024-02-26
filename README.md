@@ -26,8 +26,9 @@ Team-CirnoInCradel team members:
 2.AP stat
 
 前置学习资源
-1.Khan Academy （免费）
-2. Udemy
+1. Khan Academy （免费）
+2. Udemy (听说还蛮好用)
+3. Python基础教程: https://www.runoob.com/python3/python3-tutorial.html
 
 数学建模比赛
 
