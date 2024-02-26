@@ -1,7 +1,7 @@
 '''
 安装以下外部库:
 numpy: 矩阵计算 pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple 清华镜像
-matplotlib: 
+matplotlib: 画图
 '''
 
 # 按 Shift+F10 执行或将其替换为您的代码。
