@@ -1,9 +1,15 @@
 Good morning SCIE ers! 
+
 各位将来打竞赛的资料和进展都放在这里了
+
 Team-CirnoInCradel team members:
+
   Myriad4Link
+  
   OOLudy
+  
   Newton_zhan
+  
   溯
 
 希望各位在数学，编程和论文方面都会一点，避免存在沟通问题
@@ -40,10 +46,10 @@ Team-CirnoInCradel team members:
 
 数学建模比赛
 
-1: HiMCM: https://himcm.org.cn/instructions/#i
-2: IMMC: https://istem.info/?lang=hk
-3: 丘成桐中学科学奖: http://www.yau-awards.com/
-4: MCM: https://www.comap.com/contests/mcm-icm
+1. HiMCM: https://himcm.org.cn/instructions/#i
+2. IMMC: https://istem.info/?lang=hk
+3. 丘成桐中学科学奖: http://www.yau-awards.com/
+4. MCM: https://www.comap.com/contests/mcm-icm
 
 其他
 
