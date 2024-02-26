@@ -43,6 +43,11 @@ Team-CirnoInCradel team members:
 2. 志愿者服务网:https://chinavolunteer.mca.gov.cn/site/home
 3. FTC: https://ftc.firstinspires-china.org/home
 
+IMMC 真题
+1. 2023冬季赛: https://istem.info/problems?active_name=IMMC2023%E5%86%AC%E5%AD%A3%E8%B5%9B
+2. 2022秋季赛: https://istem.info/problems?active_name=IMMC2022%E7%A7%8B%E5%AD%A3%E8%B5%9B
+3. 2022国际赛: https://istem.info/problems?active_name=IMMC2022%E5%9B%BD%E9%99%85%E8%B5%9B
+
 HiMCM 资料
 
 1. 往届优秀论文 https://gitcode.com/dick20/mcm-icm/tree/master
